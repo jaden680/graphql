@@ -1,0 +1,5 @@
+query SampleGraphQL {
+    id
+    key
+    value
+}
